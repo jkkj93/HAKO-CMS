@@ -2,7 +2,7 @@
 箱·CMS系统停止公开
 </br>
 </br>
-箱·CMS 是一款蜂巢式的CMS系统,采用PHP+AJAX+MYSQL数据库.自主实现MVC模式,兼容所有浏览器(IE 7-11,Firefox,Safari,Chrome,Opera).
+箱·CMS 是一款蜂巢式的CMS系统,采用PHP+AJAX+MYSQL数据库.自主实现MVC模式,兼容所有浏览器(IE 7-11,Firefox,Safari,Chrome,Opera,Microsoft Edge).
 </br>
 </br>
 系统支持:</br>
